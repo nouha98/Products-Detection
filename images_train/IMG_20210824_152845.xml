@@ -1,0 +1,26 @@
+<annotation>
+	<folder>lait delice</folder>
+	<filename>IMG_20210824_152845.jpg</filename>
+	<path>C:\Users\ASUS\Desktop\test\TFODCourse\Img\lait delice\IMG_20210824_152845.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3456</width>
+		<height>4608</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Lait delice</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1213</xmin>
+			<ymin>1789</ymin>
+			<xmax>1842</xmax>
+			<ymax>2760</ymax>
+		</bndbox>
+	</object>
+</annotation>

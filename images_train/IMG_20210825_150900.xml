@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Eau mineral safia 0,5l</folder>
+	<filename>IMG_20210825_150900.jpg</filename>
+	<path>C:\Users\ASUS\Desktop\test\TFODCourse\Img\Eau mineral safia 0,5l\IMG_20210825_150900.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3456</width>
+		<height>4608</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Eau safia</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1427</xmin>
+			<ymin>1646</ymin>
+			<xmax>3056</xmax>
+			<ymax>2139</ymax>
+		</bndbox>
+	</object>
+</annotation>

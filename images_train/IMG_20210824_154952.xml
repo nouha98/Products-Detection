@@ -1,0 +1,38 @@
+<annotation>
+	<folder>mixtes</folder>
+	<filename>IMG_20210824_154952.jpg</filename>
+	<path>C:\Users\ASUS\Desktop\test\TFODCourse\Img\mixtes\IMG_20210824_154952.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3456</width>
+		<height>4608</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Lait delice</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1500</xmin>
+			<ymin>2382</ymin>
+			<xmax>1750</xmax>
+			<ymax>2818</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Farine Randa</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1756</xmin>
+			<ymin>2368</ymin>
+			<xmax>2035</xmax>
+			<ymax>2903</ymax>
+		</bndbox>
+	</object>
+</annotation>

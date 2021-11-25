@@ -1,0 +1,50 @@
+<annotation>
+	<folder>mix2</folder>
+	<filename>IMG_20210825_153531.jpg</filename>
+	<path>C:\Users\ASUS\Desktop\test\TFODCourse\Img\mix2\IMG_20210825_153531.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3456</width>
+		<height>4608</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Eau safia</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>820</xmin>
+			<ymin>782</ymin>
+			<xmax>1463</xmax>
+			<ymax>2710</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Farine Randa</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1835</xmin>
+			<ymin>832</ymin>
+			<xmax>2827</xmax>
+			<ymax>2782</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Lait delice</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>999</xmin>
+			<ymin>3189</ymin>
+			<xmax>2927</xmax>
+			<ymax>4339</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Farine Randa</folder>
+	<filename>IMG_20210824_143525_1.jpg</filename>
+	<path>C:\Users\ASUS\Desktop\test\TFODCourse\Img\Farine Randa\IMG_20210824_143525_1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3456</width>
+		<height>4608</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Farine Randa</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>813</xmin>
+			<ymin>1296</ymin>
+			<xmax>2220</xmax>
+			<ymax>3918</ymax>
+		</bndbox>
+	</object>
+</annotation>
